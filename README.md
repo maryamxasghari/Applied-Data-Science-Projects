@@ -1,2 +1,2 @@
-# Data_Analysis
+# Applied Data Science Projects 
 Python projects
